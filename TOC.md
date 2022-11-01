@@ -18,7 +18,7 @@ Welcome to my new, refactored blog! While still being in the works, I'll give an
   - [Setting up VNC]()
   - [Working Audio on PRoot]()
   - [What Desktop Environment to Choose]()
-  - [Improving the Performance... sorta]()
+  - [Improving the Performance.. sorta]()
   - [Termux-x11: XWayland?]()
   - [Gaming on PRoot: Is It (Actually) Fine?]()
 - [VTubers]()
