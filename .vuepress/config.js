@@ -84,7 +84,7 @@ module.exports = {
 					collapsable: false, // Don't allow collapsing
 					sidebarDepth: 1,
 					children: [
-					    'INSTALL', // Installing PojavLauncher
+					    'TOC', // Blog - Table of Contents
                         'BUILD-FROM-SOURCE', // Building PojavLauncher from source
 						'SIGN-IN', // Signing in
 						'INSTALL-MC', // Downloading Minecraft
